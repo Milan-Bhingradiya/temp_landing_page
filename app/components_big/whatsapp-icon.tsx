@@ -6,7 +6,7 @@ import { MessageCircle } from "lucide-react"
 export function WhatsappIcon() {
   return (
     <motion.a
-      href="https://wa.me/your-number-here"
+      href="https://wa.me/+919016064322"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50"
